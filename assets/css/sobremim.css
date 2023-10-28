@@ -1,0 +1,51 @@
+#sobre-mim {
+    width: 100%;
+    background-color:white;
+}
+
+.ajustador-2 {
+    padding: 144px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 67px;
+    max-width: 1064px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 45px;
+    color: black;
+}
+
+.circulo {
+    position: absolute;
+}
+.html {
+    bottom: 0;
+    left: 0;
+    animation: html 3s infinite linear alternate-reverse ;
+}
+
+
+
+.css {
+    bottom: 0;
+    left: 300px;
+    animation: css 3s infinite linear alternate-reverse;
+}
+
+.sobre-mim{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sobre-mim p {
+    text-indent: 30px;
+    font-size: 20px;
+    max-width: 609.25px;
+    color: black;
+}
+
+    
